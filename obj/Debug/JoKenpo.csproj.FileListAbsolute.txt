@@ -1,0 +1,11 @@
+C:\Users\Estudo\C#\JoKenpo\JoKenpo\bin\Debug\JoKenpo.exe.config
+C:\Users\Estudo\C#\JoKenpo\JoKenpo\bin\Debug\JoKenpo.exe
+C:\Users\Estudo\C#\JoKenpo\JoKenpo\bin\Debug\JoKenpo.pdb
+C:\Users\Estudo\C#\JoKenpo\JoKenpo\obj\Debug\JoKenpo.csproj.AssemblyReference.cache
+C:\Users\Estudo\C#\JoKenpo\JoKenpo\obj\Debug\JoKenpo.csproj.SuggestedBindingRedirects.cache
+C:\Users\Estudo\C#\JoKenpo\JoKenpo\obj\Debug\JoKenpo.Form1.resources
+C:\Users\Estudo\C#\JoKenpo\JoKenpo\obj\Debug\JoKenpo.Properties.Resources.resources
+C:\Users\Estudo\C#\JoKenpo\JoKenpo\obj\Debug\JoKenpo.csproj.GenerateResource.cache
+C:\Users\Estudo\C#\JoKenpo\JoKenpo\obj\Debug\JoKenpo.csproj.CoreCompileInputs.cache
+C:\Users\Estudo\C#\JoKenpo\JoKenpo\obj\Debug\JoKenpo.exe
+C:\Users\Estudo\C#\JoKenpo\JoKenpo\obj\Debug\JoKenpo.pdb
